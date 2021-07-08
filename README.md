@@ -12,13 +12,14 @@
 <br>
 
 
-🔭  I’m currently working on [Tech interviews Preparation Material](https://github.com/anushka23g/Complete-Placement-Preparation)
+🔭  I’m currently working on MERN and MERNG Stack projects.
 
-👯  I’m looking to collaborate on [Learning Made Easy](https://github.com/anushka23g/Learning-Made-Easy)
+👯  I’m looking to collaborate on React and React Native Projects.
 
-💻  All of my projects are available at [https://github.com/anushka23g](https://github.com/anushka23g)
+💻  All of my projects are available at [https://github.com/anushka23g](https://github.com/arpit1991dubey)
 
-🐣  My latest repository, [Tech-interviews-Prep](https://github.com/anushka23g/Complete-Placement-Preparation), ***Ranked under the TRENDING repositories on Github Worldwide at the 11th position.*** ❤️
+🔭 I’m currently focusing on Data Structures, Algorithms and Competitive Programming.
+
 <br>
 
 
