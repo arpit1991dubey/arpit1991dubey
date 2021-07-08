@@ -16,7 +16,7 @@
 
 👯  I’m looking to collaborate on React and React Native Projects.
 
-💻  All of my projects are available at [https://github.com/anushka23g](https://github.com/arpit1991dubey)
+💻  All of my projects are available at [https://github.com/arpit1991dubey](https://github.com/arpit1991dubey)
 
 🔭 I’m currently focusing on Data Structures, Algorithms and Competitive Programming.
 
