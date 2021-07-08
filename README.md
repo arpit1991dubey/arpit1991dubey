@@ -12,7 +12,7 @@
 <br>
 
 
-🔭  I’m currently working on MERN and MERNG Stack projects.
+🛠️  I’m currently working on MERN and MERNG Stack projects.
 
 👯  I’m looking to collaborate on React and React Native Projects.
 
