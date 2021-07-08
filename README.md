@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Raj</h1>
-<h3 align="center">A passionate Software Developer from And An Undergraduate Final Year Student @VIT</h3>
+<h3 align="center">A passionate Software Developer And An Undergraduate Final Year Student @VIT</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arpit1991dubey&label=Profile%20views&color=0e75b6&style=flat" alt="arpit1991dubey" /> </p>
 
@@ -22,14 +22,14 @@
 <br>
 
 
-📫  How to reach me **anushkagupta20128@gmail.com**
+📫  How to reach me **arpit8.dev@gmail.com**
 <br>
 <br>
 
 <h3 align="left">⭐ Connect with me:</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/anushka-gupta-679496196" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="anushka-gupta-679496196" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/anushka23g" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="anushka23g" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/arpit-raj-833108173" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Arpit-raj" height="50" width="50" /></a>
+
 </p>
 
 <h3 align="left">⭐ Languages and Tools:</h3>
@@ -37,6 +37,6 @@
 
 <br>
  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka23g&" alt="anushka23g" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit1991dubey&" alt="arpit1991dubey" /></p>
  
  
