@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Raj</h1>
 <h3 align="center">A passionate Software Developer And An Undergraduate Final Year Student @VIT</h3>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arpit1991dubey&label=Profile%20views&color=0e75b6&style=flat" alt="arpit1991dubey" /> </p>
 
 <br>
 
