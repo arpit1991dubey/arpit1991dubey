@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Raj</h1>
 <h3 align="center">A passionate Software Developer And An Undergraduate Final Year Student @VIT</h3>
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?arpit1991dubey=vn7n24fzkq&theme=vue)
+
 <br>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit1991dubey&show_icons=true&locale=en" alt="arpit1991dubey" /></p>
