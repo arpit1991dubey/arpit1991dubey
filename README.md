@@ -4,7 +4,7 @@
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-arpit1991dubey"/></p>
 <br>
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpit1991dubey&theme=nord_bright" alt="GT"/></p> 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpit1991dubey&theme=nord_bright
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpit1991dubey&theme=nord_bright" alt="GT"/></p> 
 <br>
 
 <!-- <p align="left"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpit1991dubey&theme=solarized_dark" /></p>
