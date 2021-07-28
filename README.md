@@ -5,11 +5,10 @@
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpit1991dubey&theme=solarized_dark" alt="GT"/></p> 
 
 <br>
-<span>
-<p align="left"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpit1991dubey&theme=solarized_dark" /></p>
+
+<!-- <p align="left"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpit1991dubey&theme=solarized_dark" /></p>
 <p align="right"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpit1991dubey&theme=solarized_dark" />
-</p>
- </span>
+</p> -->
 <br>
 <br>
 
