@@ -3,8 +3,8 @@
 <br>
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-arpit1991dubey"/></p>
 <br>
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpit1991dubey&theme=monokai" alt="GT"/></p> 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpit1991dubey&theme=monokai" alt="GT"/></p> 
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpit1991dubey&theme=vue" alt="GT"/></p> 
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arpit1991dubey&theme=vue" alt="GT"/></p> 
 
 <br>
 
