@@ -4,8 +4,8 @@
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpit1991dubey&theme=solarized_dark" alt="GT"/></p> 
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit1991dubey&show_icons=true&locale=en" alt="arpit1991dubey" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit1991dubey&layout=compact&langs_count=8" alt="arpit1991dubey" />
+<p align="center"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpit1991dubey&theme=solarized_dark" /></p>
+<p align="center"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpit1991dubey&theme=solarized_dark" />
 </p>
 <br>
 <br>
