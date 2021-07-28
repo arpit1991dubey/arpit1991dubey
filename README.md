@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Software Developer And An Undergraduate Final Year Student @VIT</h3>
 <br>
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpit1991dubey&theme=solarized_dark" alt="GT"/></p> 
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpit1991dubey&theme=solarized_dark" alt="GT"/></p> 
+
 <br>
 <span>
 <p align="left"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpit1991dubey&theme=solarized_dark" /></p>
