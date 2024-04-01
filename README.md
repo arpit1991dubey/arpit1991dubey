@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Raj</h1>
-<h3 align="center">A passionate Software Developer And An Undergraduate Final Year Student @VIT</h3>
+<h3 align="center">A passionate Software Developer and a Lifelong Learner 😊 </h3>
 <br>
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-arpit1991dubey"/></p>
 <br>
@@ -14,13 +14,13 @@
 <br>
 
 
-🛠️  I’m currently working on MERN and MERNG Stack projects.
+🛠️  I’m currently working on Android apps.
 
-👯  I’m looking to collaborate on React and React Native Projects.
+👯  I’m looking to collaborate on Android and React Native Projects.
 
 💻  All of my projects are available at [https://github.com/arpit1991dubey](https://github.com/arpit1991dubey)
 
-🔭 I’m currently focusing on Data Structures, Algorithms and Competitive Programming.
+🔭 I’m currently focusing on learning optimisation techniques for my android apps.
 
 <br>
 
